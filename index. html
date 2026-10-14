@@ -196,7 +196,7 @@
         textWA += `Mohon info nomor rekening dan total ongkirnya. Terima kasih!`;
 
         // Buka WhatsApp Admin di tab baru
-        window.open(`https://wa.me/${WA_ADMIN}?text=${encodeURIComponent(textWA)}`, "_blank");
+        window.open(`https://wa.me/${628917085479}?text=${encodeURIComponent(textWA)}`, "_blank");
 
         // Reset keranjang belanja
         cart = [];
